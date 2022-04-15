@@ -1,1 +1,1 @@
-var hello = "Hello Mars";
+var hello = "Hello Sun";
